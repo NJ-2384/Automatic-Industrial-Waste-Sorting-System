@@ -14,10 +14,18 @@ The system combines:
 - A pneumatic actuation
 all controlled via a Raspberry Pi to achieve efficient and accurate segregation.
 
-By integrating mechanical, electronic, and sensor-based technologies, the system ensures that metallic materials are separated first, followed by the detection and removal of plastics, with paper collected at the final stage. 
+By integrating mechanical, electronic, and sensor-based technologies, the system ensures that metallic materials are separated first, followed by the detection and removal of plastics, with paper collected at the final stage.
 
-This automated approach not only saves time and labour but also promotes sustainable waste management practices by enabling high-quality recycling at the source.
-
+## 3D Design
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b1035968-b8a6-4565-b3c9-e33f22d98d75" />
 </p>
+
+## Ladder Logic
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b42015b9-3fd9-4821-8e14-df31622f872b" />
+</p>
+
+
+
+This automated approach not only saves time and labour but also promotes sustainable waste management practices by enabling high-quality recycling at the source.
