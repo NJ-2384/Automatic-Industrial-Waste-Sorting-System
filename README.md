@@ -6,10 +6,10 @@ Manual sorting is labour-intensive, time-consuming, and exposes workers to poten
 To address these challenges, this project proposes the design and development of an Automatic Waste Sorting System capable of sorting mixed material waste efficiently using low-cost methods with minimal human intervention. 
 
 The system combines:
-- Dual proximity sensors
+- An agitator
 - An electromagnet
 - A bidirectional brush mechanism
-- An agitator
+- Dual proximity sensors
 - An NIR sensor
 - A pneumatic actuation
 all controlled via a Raspberry Pi to achieve efficient and accurate segregation.
