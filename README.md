@@ -31,9 +31,4 @@ By integrating mechanical, electronic, and sensor-based technologies, the system
   <img src="https://github.com/user-attachments/assets/7bfdb8b4-c309-4c08-9ab3-9fc816941f47" />
 </p>
 
-
-![WhatsApp Image 2025-10-15 at 16 46 01_03adb930]()
-
-
-
 This automated approach not only saves time and labour but also promotes sustainable waste management practices by enabling high-quality recycling at the source.
